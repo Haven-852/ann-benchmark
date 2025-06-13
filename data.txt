@@ -1,0 +1,6 @@
+mnist-784-euclidean
+60000*784:60000个向量的784维，1w条测试数据test
+sift-128-euclidean
+100w的128维向量train,1w条测试数据test
+gist-960-euclidean
+100w的960维向量,1k条测试数据test
